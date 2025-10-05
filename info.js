@@ -5,5 +5,6 @@ const botao_sair = document.getElementById("bt_sair");
 
 botao_contato.addEventListener("click", abrirContato);
 botao_sair.addEventListener("click", () => {
-  window.location.href = "../ScriptsHTML/index.html";
+  window.location.href = "index.html";
 });
+
